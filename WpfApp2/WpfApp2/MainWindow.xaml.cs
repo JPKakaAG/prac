@@ -36,7 +36,7 @@ namespace WpfApp2
                                 .ToArray();
 
             // Вызываем функцию для вычисления разницы чисел
-            int difference = v11.CalculateDifference(numbers);
+            int difference = variant11.CalculateDifference(numbers);
 
             // Выводим результат
             MessageBox.Show($"Разница чисел: {difference}", "Результат");

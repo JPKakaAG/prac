@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace lib_11
 {
-    public class v11
+    public class variant11
     {
         public static int CalculateDifference(int[] numbers)
         {
